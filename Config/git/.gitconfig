@@ -1,0 +1,15 @@
+# Copy this file to %USERPROFILE%
+
+# Or run these:
+# git config --global user.name ""
+# git config --global user.email ""
+# git config --global include.path "~/.common.gitconfig"
+
+[user]
+	email =
+	name =
+
+# Windows style path:
+# path = c:\\users\\username\\.common.gitconfig
+[include]
+	path = ~/.common.gitconfig
